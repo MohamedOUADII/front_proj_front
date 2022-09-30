@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  app_url: "https://form-proj-back.herokuapp.com/api/v1"
+  backUrl: "http://localhost:8080/api/v1"
 };
 
 /*
