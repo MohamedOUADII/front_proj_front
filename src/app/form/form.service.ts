@@ -7,7 +7,7 @@ import { environment } from 'src/environments/environment';
 })
 export class FormService {
 
-  app_url =environment.app_url
+  app_url =environment.backUrl
 
   constructor(private http : HttpClient) { }
 

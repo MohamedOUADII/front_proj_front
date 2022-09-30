@@ -11,9 +11,6 @@ import { FormService } from './form.service';
 })
 export class FormComponent implements OnInit{
 
-  
-  
-
   constructor(private formservice:FormService) { }
   ngOnInit(): void {
     
